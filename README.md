@@ -61,14 +61,16 @@ React Vite, Firebase ve Redux Toolkit kullanarak geliştirilmiş bir todo uygula
 - **Ayarlar Bölümü**: Sağ üstteki ayarlar bölümünden profil bilgilerinizi veya şifrenizi güncelleyebilirsiniz.
 
 ## Ekran Görüntüleri
+<div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
+<img src="./screenshot/welcome.png" alt="Karşılama Ekranı" width="480" />
+<img src="./screenshot/sign_up.png" alt="Kayıt Sayfası" width="480" />
+<img src="./screenshot/login.png" alt="Giriş Sayfası" width="480" />
+<img src="./screenshot/verification_screen.png" alt="Hesap Doğrulama" width="480" />
+<img src="./screenshot/todo_home.png" alt="Todo Ekleme Ekranı" width="480" />
+<img src="./screenshot/todo_edit.png" alt="Todo Edit" width="480" />
+<img src="./screenshot/profile_update.png" alt="Profil Güncelleme" width="480" />
+</div>
 
-![Karşılama Ekranı](./screenshot/welcome.png)
-![Kayıt Sayfası](./screenshot/sign_up.png)
-![Giriş Sayfası](./screenshot/login.png)
-![Hesap Doğrulama](./screenshot/verification_screen.png)
-![Todo Ekleme Ekranı](./screenshot/todo_home.png)
-![Todo Edit](./screenshot/todo_edit.png)
-![Profil Güncelleme](./screenshot/profile_update.png)
 
 
 ## Katkıda Bulunma

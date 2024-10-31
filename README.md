@@ -62,10 +62,14 @@ React Vite, Firebase ve Redux Toolkit kullanarak geliştirilmiş bir todo uygula
 
 ## Ekran Görüntüleri
 
-![Ana Ekran](./screenshots/main.png)
-![Todo Ekleme](./screenshots/add-todo.png)
-![Kişisel Todo](./screenshots/private-todo.png)
-![Ayarlar](./screenshots/settings.png)
+![Karşılama Ekranı](./screenshots/welcome.png)
+![Kayıt Sayfası](./screenshots/sign_up.png)
+![Giriş Sayfası](./screenshots/login.png)
+![Hesap Doğrulama](./screenshots/verification_screen.png)
+![Todo Ekleme Ekranı](./screenshots/todo_home.png)
+![Todo Edit](./screenshots/todo_edit.png)
+![Profil Güncelleme](./screenshots/profile_update.png)
+
 
 ## Katkıda Bulunma
 
@@ -79,6 +83,3 @@ React Vite, Firebase ve Redux Toolkit kullanarak geliştirilmiş bir todo uygula
 
 Bu proje MIT Lisansı ile lisanslanmıştır.
 
---- 
-
-Bu README şablonunu kendi proje detaylarınıza göre özelleştirebilir ve görseller ekleyerek daha görsel hale getirebilirsiniz.

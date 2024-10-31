@@ -1,9 +1,7 @@
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-
 import { Toaster } from "react-hot-toast";
 import Login from "./pages/Login";
 import Home from "./pages/Home";
-import Modal from "./component/Modal";
 import Register from "./pages/Register";
 
 const App = () => {

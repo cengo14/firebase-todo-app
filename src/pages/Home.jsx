@@ -29,7 +29,6 @@ const Home = () => {
   const firstTodos = [...publicTodos, ...privateTodos];
   const todos = firstTodos.sort(() => Math.random() - 0.5);
   todos.sort((a, b) => new Date(b.createdAt) - new Date(a.createdAt));
-  console.log(publicTodos);
 
   const [animationParent] = useAutoAnimate();
   const handleLogout = async () => {

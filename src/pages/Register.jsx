@@ -17,10 +17,12 @@ const Register = () => {
   return (
     <div className="w-full h-screen flex justify-center items-center">
       <form
-        className="w-[800px] h-[600px] py-32 px-60 shadow-md shadow-slate-300 border rounded-xl"
+        className="w-[800px] h-[600px]  max-md:h-full max-md:w-full md:py-32 md:px-60 py-24 px-24 shadow-md shadow-slate-300 border rounded-xl"
         onSubmit={handleSubmit}
       >
-        <h1 className="mb-10">Üyelik Oluştur</h1>
+        <h1 className="mb-10 max-md:text-4xl whitespace-nowrap text-center">
+          Üyelik Oluştur
+        </h1>
         <input
           placeholder="Email giriniz"
           type="email"

@@ -7,9 +7,6 @@ const TodoForm = () => {
   const [visible, setVisible] = useState("public");
   const { user } = useSelector((store) => store.auth);
 
-  console.log(user);
-  console.log(auth.currentUser);
-
   const handleSubmit = async (e) => {
     e.preventDefault();
     await addTodo({

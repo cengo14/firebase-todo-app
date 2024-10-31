@@ -62,13 +62,13 @@ React Vite, Firebase ve Redux Toolkit kullanarak geliştirilmiş bir todo uygula
 
 ## Ekran Görüntüleri
 
-![Karşılama Ekranı](./screenshots/welcome.png)
-![Kayıt Sayfası](./screenshots/sign_up.png)
-![Giriş Sayfası](./screenshots/login.png)
-![Hesap Doğrulama](./screenshots/verification_screen.png)
-![Todo Ekleme Ekranı](./screenshots/todo_home.png)
-![Todo Edit](./screenshots/todo_edit.png)
-![Profil Güncelleme](./screenshots/profile_update.png)
+![Karşılama Ekranı](./screenshot/welcome.png)
+![Kayıt Sayfası](./screenshot/sign_up.png)
+![Giriş Sayfası](./screenshot/login.png)
+![Hesap Doğrulama](./screenshot/verification_screen.png)
+![Todo Ekleme Ekranı](./screenshot/todo_home.png)
+![Todo Edit](./screenshot/todo_edit.png)
+![Profil Güncelleme](./screenshot/profile_update.png)
 
 
 ## Katkıda Bulunma
